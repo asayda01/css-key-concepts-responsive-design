@@ -18,3 +18,10 @@ body {
 img {
     width: 250px;
 }
+
+.card-container{
+
+    display: flex;
+    flex-wrap: wrap;
+
+}
